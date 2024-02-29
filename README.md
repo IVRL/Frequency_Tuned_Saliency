@@ -8,7 +8,7 @@ python saliency_detection.py
 The output of the demo should be as follows:
 
 <p float="center">
-  <img src="https://github.com/IVRL/Frequency_Tuned_Saliency/blob/master/bee_sal.png" width="400" />
+  <img src="https://github.com/IVRL/Frequency_Tuned_Saliency/blob/main/bee_sal.png" width="400" />
 </p>
 
 If you use the code, please cite the following publication:
