@@ -16,7 +16,7 @@ If you use the code, please cite the following publication:
 "Frequency-tuned salient region detection", R. Achanta, S. Hemami, F. Estrada, S. Süsstrunk, CVPR 2009.
 
 ```
-@INPROCEEDINGS{5206596,
+@INPROCEEDINGS{saliency_achanta_cvpr09,
   author={Achanta, Radhakrishna and Hemami, Sheila and Estrada, Francisco and Susstrunk, Sabine},
   booktitle={2009 IEEE Conference on Computer Vision and Pattern Recognition}, 
   title={Frequency-tuned salient region detection}, 
